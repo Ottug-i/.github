@@ -1,28 +1,22 @@
-<center><img src="https://github.com/GaGa-Kim/Ottug-i_Curry/assets/87821678/5290eb28-d7d2-4398-8fe3-8e458ae573c5" width="500"></center>
+# 🍛 카레: 카메라로 찍고 레시피 추천받자!
+## 🌈 About
+> <b>개발 기간</b>: 2023.04 ~ 2023.09<br/>
+> [🎞️  카레 시연 영상](https://youtu.be/0DPp7_p83QA)
 
-## 🌈About
-<b>동기</b> <br/>
-- 높은 물가로 인한 집밥 수요의 증가 <br/>
-- 1인 가구 및 맟벌이 자녀 등 요리를 시작하는 사람들의 고민<br/>
-- 중구난방으로 남은 식재료들의 처치 곤란<br/>
-- 비슷한 요리에 대한 지겨움<br/>
-
-<b>목표</b> <br/>
-- 냉장고 속 재료를 꺼내 카메라로 찍으면 다양한 레시피를 추천해 사용자의 고민을 덜어준다.
-
-<b>개발기간</b> <br/>
-- 2023.04 ~ 현재
 </br>
 
-## ⭐Main Function
-- 레시피 이름으로 레시피를 검색한다.
-- 재료 사진을 찍어 레시피를 검색한다.
-- 북마크한 레시피를 기반으로 새로운 레시피를 추천받는다.
+
+<center><img src="https://github.com/Ottug-i/.github/assets/87821678/2f903256-bc37-4025-b5ba-b7178aafc580" width="500"></center>
 </br>
 
-## 💎Stacks
-<div align=start>
-  
+## ⭐ Main Function
+- 레시피 추천 기능
+- 재료 인식 기능
+- AR 캐릭터 인증샷 기능
+
+
+## 💎 Stacks
+<div align=start>  
   <h4>FrontEnd</h4>
    <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
    <img src="https://img.shields.io/badge/android-3DDC84B?style=for-the-badge&logo=android&logoColor=white">
@@ -45,11 +39,10 @@
    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
    <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </div>
-</br>
 
-## 🤹🏻Contributor
+## 🤹🏻 Contributor
 | 김가경 | 김희서 | 최예나 |
 | :-: | :-: | :-: |
 | [@GaGa-Kim](https://github.com/GaGa-Kim) | [@rlaltj](https://github.com/hap6v6) | [@Choi Yena](https://github.com/YenaChoi00) |
 |<img src="https://github.com/GaGa-Kim.png" style="width:150px; height:150px;">|<img src="https://avatars.githubusercontent.com/u/76986589?v=4" style="width:150px; height:150px;">|<img src="https://avatars.githubusercontent.com/u/71956482?v=4" style="width:150px; height:150px;">|
-| Backend<br/>Developer | Frontend<br/>Developer | Frontend<br/>Developer |
+| Backend  / ML<br/>Developer | Frontend / ML<br/>Developer | Frontend / ML<br/>Developer |
