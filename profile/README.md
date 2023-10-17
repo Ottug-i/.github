@@ -11,8 +11,8 @@
 ## ⭐ Main Function
 - 레시피 추천 기능
 - 재료 인식 기능
-- AR 캐릭터 인증샷 기능<br/><br/>
-
+- AR 캐릭터 인증샷 기능<br/>
+<center><img src="https://github.com/Ottug-i/.github/assets/87821678/2ba2d0d1-f54e-4d0f-a3c3-66917d8103ea" width="600"></center>
 
 ## 💎 Stacks
 <div align=start>  
