@@ -1,18 +1,17 @@
-# 🍛 카레: 카메라로 찍고 레시피 추천받자!
+# 카레: 카메라로 찍고 레시피 추천받자! 🍛
+현대인의 건강한 식습관 형성을 위한 식재료 인식 및 맞춤 레시피 추천 어플리케이션<br/><br/>
+
 ## 🌈 About
-> <b>개발 기간</b>: 2023.04 ~ 2023.09<br/>
-> [🎞️  카레 시연 영상](https://youtu.be/0DPp7_p83QA)
+- <b>개발 기간</b>: 2023.04 ~ 2023.09<br/>
+- [카레 시연 영상](https://youtu.be/0DPp7_p83QA)
 
-</br>
-
-
-<center><img src="https://github.com/Ottug-i/.github/assets/87821678/2f903256-bc37-4025-b5ba-b7178aafc580" width="500"></center>
+<center><img src="https://github.com/Ottug-i/.github/assets/87821678/2f903256-bc37-4025-b5ba-b7178aafc580" width="600"></center>
 </br>
 
 ## ⭐ Main Function
 - 레시피 추천 기능
 - 재료 인식 기능
-- AR 캐릭터 인증샷 기능
+- AR 캐릭터 인증샷 기능<br/><br/>
 
 
 ## 💎 Stacks
@@ -38,7 +37,7 @@
    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
    <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</div>
+</div><br/>
 
 ## 🤹🏻 Contributor
 | 김가경 | 김희서 | 최예나 |
